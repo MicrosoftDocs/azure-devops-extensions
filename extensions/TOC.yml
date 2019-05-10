@@ -1,2 +1,5 @@
-- name: Index
+- name: First-party extensions
   href: index.md
+  items:
+    - name: Dependency Tracker
+      href: dependency-tracker/overview.md
