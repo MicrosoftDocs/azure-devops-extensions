@@ -1,5 +1,6 @@
 {
   "build": {
+    "markdownEngineName": "dfm",
     "content": [
       {
         "files": [
@@ -35,9 +36,21 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "uhfHeaderId":"MSDocsHeader-AzureDevOps",
+      "ms.topic": "conceptual",
       "breadcrumb_path": "/azure/devops/extensions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "searchScope": ["Azure DevOps Services"],
+      "author": "thomps23",
+      "ms.author": "ryanth",
+      "ms.date": "05/10/2019",
+      "ms.prod": "devops",
+      "ms.version": "ALM",
+      "MSHAttr.msprod": "ms.prod:ALM",
+      "ms.prodfamily": "ALM",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/azure-devops-extensions",
+      "feedback_product_url": "https://developercommunity.visualstudio.com/spaces/21/index.html"
     },
     "fileMetadata": {},
     "template": [],
