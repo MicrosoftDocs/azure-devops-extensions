@@ -11,4 +11,5 @@ ms.date: 05/17/2018
 
 When one team is dependent on another team for work a dependency needs to be created.  Both teams should track their own work in their own area path and they should create a dependency link between the two work items.
 
-![Dependency Tracker](/extensions/images/DT1.png)
+To find Dependency tracker go to :
+![dependency tracker](../images/DT1.png)
