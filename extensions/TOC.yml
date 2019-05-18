@@ -1,5 +1,7 @@
 - name: First-party extensions
   href: index.md
   items:
-    - name: Dependency Tracker
-      href: dependency-tracker/overview.md
+  - name: Dependency Tracker
+    href: dependency-tracker/overview.md  
+  - name: Get started
+    href: dependency-tracker/Create-a-new-dependency.md
