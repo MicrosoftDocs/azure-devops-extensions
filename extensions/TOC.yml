@@ -6,9 +6,5 @@
     items:  
     - name: Get started
       href: dependency-tracker/Create-a-new-dependency.md
-<<<<<<< HEAD
-      
-=======
     - name: Dependency Views
       href: dependency-tracker/DependencyViews.md
->>>>>>> 7ccda15c27d44ec3e74a695f6d551e887a2b3b51
