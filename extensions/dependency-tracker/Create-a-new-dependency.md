@@ -18,9 +18,9 @@ From there the Dependency Creation screen pops up.
 
 The Producer is the team that commits to delivering the work.
 The Consumer is the team that needs or is dependency on the work.
-The fastest way to create a dependency link is to type the Producer and Consuemr work item ids in the search boxes and then click save.
+The fastest way to create a dependency link is to type the Producer and Consumer work item ids in the search boxes and then click save.
 
-If no work items exist for one half of the depdendency it is possible to create a new work item also.
+If no work items exist for one half of the dependency it is possible to create a new work item also.
 
 ## Dependencies can also be created from the Links Tab
 

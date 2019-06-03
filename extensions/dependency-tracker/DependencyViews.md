@@ -3,7 +3,7 @@
 ### Consuming Dependencies
 Shows dependencies that an area path is consuming from other area paths.
 
-![Dependency Tracker](/extensions/images/Consuming.png)
+![ConsumingView](../images/Consuming.png)
 
 On the bar chart each column represents another area path that is producing dependencies for this area path by state or risk.  The table below shows a list of all of the associated work items.
 
@@ -15,7 +15,7 @@ On the bar chart each column represents another area path that is producing depe
 ### Producing Dependencies
 Shows dependencies that an area path is producing for other area paths.
 
-![Dependency Tracker](/extensions/images/Producing.png)
+![Dependency Tracker](../images/Producing.png)
 
 ### Options in this view include:
 - Filtering down work items
