@@ -2,6 +2,7 @@
   href: index.md
   items:
   - name: Dependency Tracker
-    href: dependency-tracker/overview.md  
-  - name: Get started
-    href: dependency-tracker/Create-a-new-dependency.md
+    href: dependency-tracker/overview.md
+    items:  
+    - name: Get started
+      href: dependency-tracker/Create-a-new-dependency.md
