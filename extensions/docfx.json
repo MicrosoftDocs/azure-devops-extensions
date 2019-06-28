@@ -45,7 +45,7 @@
       "ms.prod": "devops",
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/azure-devops-extensions",
-      "feedback_product_url": "https://developercommunity.visualstudio.com/spaces/21/index.html"
+      "feedback_product_url": "mailto://adoreporting@microsoft.com"
     },
     "fileMetadata": {},
     "template": [],
