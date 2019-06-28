@@ -17,3 +17,7 @@ Producing Dependencies - work the selected area path is doing that other area pa
 Dependency Tracker appears under Boards
 
 ![Dependency Tracker Location](../images/Navigation.png)
+
+The dependencies are visually displayed and can be filtered to create a specific view.
+
+![Consuming](../images/Consuming.png)
