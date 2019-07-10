@@ -5,11 +5,11 @@
     href: dependency-tracker/overview.md
     items:  
     - name: Create a Dependency
-      href: dependency-tracker/Create-a-new-dependency.md
-    - name: Dependency Views
-      href: dependency-tracker/DependencyViews.md
-    - name: Timeline
+      href: dependency-tracker/Create-new-dependency.md
+    - name: Dependency Tracker Dependency views
+      href: dependency-tracker/Dependency-Views.md
+    - name: Dependency Tracker Timeline
       href: dependency-tracker/Timeline.md  
-    - name: Risk Graph
-      href: dependency-tracker/RiskGraph.md        
+    - name: Dependency Tracker Risk Graph
+      href: dependency-tracker/Risk-Graph.md        
 

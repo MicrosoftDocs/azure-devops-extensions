@@ -1,10 +1,10 @@
 ---
-title: How to create a dependency tracker
+title: Overview of Dependency Tracker
 description: Learn how to create dependency tracker in Azure DevOps
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual
-ms.date: 05/17/2018
+ms.date: 07/10/2019
 ---
 
 # Overview of Azure DevOps dependency tracker
@@ -20,4 +20,4 @@ Dependency Tracker appears under Boards
 
 The dependencies are visually displayed and can be filtered to create a specific view.
 
-![Consuming](../images/Consuming.png)
+![Consuming-View](../images/Consuming-View.png)
