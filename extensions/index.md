@@ -7,8 +7,8 @@ ms.topic: conceptual
 ms.date: 05/17/2018
 ---
 
-# Welcome to azure-devops-extensions!
+# Azure DevOps extensions developed by Microsoft
 
-Ths is one place where you will find all the information for all the Azure DevOps extensions.
+The Azure DevOps Marketplace offers a wide variety of extensions to customize or enhance the default experience. The following documentation details extensions developed by Microsoft.
 
-## List of Azure DevOps Extensions
+[Dependency Tracker](/dependency-tracker/Overview.md)
