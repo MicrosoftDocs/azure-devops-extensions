@@ -10,4 +10,6 @@
       href: dependency-tracker/DependencyViews.md
     - name: Timeline
       href: dependency-tracker/Timeline.md  
+    - name: Risk Graph
+      href: dependency-tracker/RiskGraph.md        
 
