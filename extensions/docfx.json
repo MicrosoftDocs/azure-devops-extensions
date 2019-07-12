@@ -35,6 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "titleSuffix": "Azure DevOps",
       "uhfHeaderId":"MSDocsHeader-AzureDevOps",
       "ms.topic": "conceptual",
       "breadcrumb_path": "/azure/devops/extensions/breadcrumb/toc.json",
