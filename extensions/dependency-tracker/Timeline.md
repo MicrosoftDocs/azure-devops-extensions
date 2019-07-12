@@ -18,3 +18,5 @@ The Dependency Timeline feature is in Beta.  The Timeline is designed to provide
 - Right clicking of an item to reassign it to a new iteration
 
 ![Timeline](../images/Timeline.png)
+
+In order for the timeline to function correctly Iterations must have dates assigned
