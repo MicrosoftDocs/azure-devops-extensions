@@ -1,6 +1,6 @@
 ---
 title: How to create a dependency
-description: Learn how to create dependency in Azure DevOps
+description: Learn how to create dependency in Azure DevOps Dependency Tracker
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual

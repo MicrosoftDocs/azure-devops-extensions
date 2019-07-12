@@ -1,12 +1,12 @@
 ---
 title: Dependency Tracker Risk Graph
-description: Learn how to use the Risk Graph
+description: Learn how to use the Risk Graph in Azure DevOps Dependency Tracker
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual
 ms.date: 07/10/2019
 ---
-# Risk Graph
+# Dependnecy Risk Graph
 
 Dependency Risk Graph is a bird's eye view of how dependencies flow from the Producer to all Consumers or to the Consumer from all Producers.  The graph allows a team to, at a glance, understand the magnitude of dependencies and level of risks associated.  In addition the risk graph view demonstrates the value of linking dependencies.
 

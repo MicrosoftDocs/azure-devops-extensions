@@ -1,6 +1,6 @@
 ---
 title: How to use Dependency Views
-description: Learn how to use Dependency Views in Azure DevOps
+description: Learn how to use Dependency Views in Dependency Tracker for Azure DevOps
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual

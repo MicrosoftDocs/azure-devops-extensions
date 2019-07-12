@@ -1,12 +1,12 @@
 ---
 title: Dependency Tracker Timeline
-description: Learn how to use the Timeline
+description: Learn how to use the Timeline for Dependency Tracker in Azure DevOps
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual
 ms.date: 07/10/2019
 ---
-# Timeline
+# Dependency Timeline
 The Dependency Timeline feature is in Beta.  The Timeline is designed to provide clear sequencing of dependencies across months.
 
 ## Features
