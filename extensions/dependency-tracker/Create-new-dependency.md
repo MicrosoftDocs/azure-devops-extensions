@@ -4,7 +4,7 @@ description: Learn how to create dependency in Azure DevOps Dependency Tracker
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual
-ms.date: 07/10/2019
+ms.date: 07/15/2019
 ---
 
 # Creating a Dependency
@@ -23,7 +23,6 @@ The fastest way to create a dependency link is to type the Producer and Consumer
 If no work items exist for one half of the dependency it is possible to create a new work item also.
 
 ## Dependencies can also be created from the Links Tab
-
 
 Dependencies can be created using the Predecessor and Successor links on the Links tab.
 A predecessor is the producer of the work item, or the item that must come first.
