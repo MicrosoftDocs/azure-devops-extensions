@@ -35,13 +35,24 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "titleSuffix": "Azure DevOps",
+      "uhfHeaderId":"MSDocsHeader-AzureDevOps",
+      "ms.topic": "conceptual",
       "breadcrumb_path": "/azure/devops/extensions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "searchScope": ["Azure DevOps Services"],
+      "author": "thomps23",
+      "ms.author": "ryanth",
+      "ms.prod": "devops",
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/azure-devops-extensions",
+      "feedback_product_url": "mailto://adoreporting@microsoft.com"
     },
     "fileMetadata": {},
     "template": [],
     "dest": "azure-devops-extensions",
     "markdownEngineName": "markdig"
   }
+
 }
+

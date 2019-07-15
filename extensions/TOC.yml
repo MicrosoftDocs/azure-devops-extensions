@@ -1,0 +1,15 @@
+- name: First-party extensions
+  href: index.md
+  items:
+  - name: Dependency Tracker
+    href: dependency-tracker/overview.md
+    items:  
+    - name: Create a Dependency
+      href: dependency-tracker/Create-new-dependency.md
+    - name: Dependency views
+      href: dependency-tracker/Dependency-Views.md
+    - name: Timeline
+      href: dependency-tracker/Timeline.md  
+    - name: Risk Graph
+      href: dependency-tracker/Risk-Graph.md        
+
