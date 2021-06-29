@@ -12,11 +12,11 @@ ms.date: 07/15/2019
 
 Shows dependencies that an area path is consuming from other area paths. These are all of the dependencies you are receiving from other teams.
 
-![Consuming-View](../images/Consuming-View.png)
+![dependencies you are receiving from other teams](../images/Consuming-View.png)
 
 On the bar chart each column represents another area path that is producing dependencies for this area path by state or risk.  The table below shows a list of all of the associated work items.
 
-## Options in this view
+## Options in consuming dependencies chart
 
 - Filtering down work items
 - Changing if the Producer or Consumer work items are displayed on top
@@ -28,7 +28,7 @@ Shows dependencies that an area path is producing for other area paths. These ar
 
 ![Dependency Tracker](../images/Producing-View.png)
 
-## Options in this view
+## Options in producing dependencies chart
 
 - Filtering down work items
 - Changing if the Producer or Consumer work items are displayed on top
