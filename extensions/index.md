@@ -11,4 +11,4 @@ ms.date: 05/17/2018
 
 The Azure DevOps Marketplace offers a wide variety of extensions to customize or enhance the default experience. The following documentation details extensions developed by Microsoft.
 
-[Dependency Tracker](https://docs.microsoft.com/azure/devops/extensions/dependency-tracker/overview)
+[Dependency Tracker](/azure/devops/extensions/dependency-tracker/overview)
