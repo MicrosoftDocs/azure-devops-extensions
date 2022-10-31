@@ -35,6 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.service": "azure-devops",
       "titleSuffix": "Azure DevOps",
       "uhfHeaderId":"MSDocsHeader-AzureDevOps",
       "ms.topic": "conceptual",
@@ -43,7 +44,6 @@
       "searchScope": ["Azure DevOps Services"],
       "author": "thomps23",
       "ms.author": "ryanth",
-      "ms.prod": "devops",
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/azure-devops-extensions",
       "feedback_product_url": "mailto://adoreporting@microsoft.com"
