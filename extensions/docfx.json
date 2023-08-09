@@ -42,8 +42,8 @@
       "breadcrumb_path": "/azure/devops/extensions/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Azure DevOps Services"],
-      "author": "thomps23",
-      "ms.author": "ryanth",
+      "author": "chcomley",
+      "ms.author": "chcomley",
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/azure-devops-extensions",
       "feedback_product_url": "mailto://adoreporting@microsoft.com"
