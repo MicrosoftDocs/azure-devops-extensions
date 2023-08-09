@@ -1,8 +1,8 @@
 ---
 title: Azure DevOps extensions
 description: Learn how to use all Azure DevOps extensions
-author: thomps23
-ms.author: ryanth
+author: chcomley
+ms.author: chcomley
 ms.topic: conceptual
 ms.date: 05/17/2018
 ---
