@@ -11,8 +11,8 @@ ms.date: 07/15/2019
 
 When one team is dependent on another team for work a dependency needs to be created.  Both teams should track their own work in their own area path and they should create a dependency link between the two work items.
 
-To find Dependency tracker go to : https://docs.microsoft.com/azure/devops/extensions/dependency-tracker/create-new-dependency.
-![dependency tracker](../images/Easy-Button.png)
+To find Dependency tracker, go to [Create new dependency](./extensions/dependency-tracker/create-new-dependency).
+![Screenshot of Dependency Tracker, easy button.](../images/Easy-Button.png)
 
 From there the Dependency Creation screen pops up.
 
@@ -28,4 +28,4 @@ Dependencies can be created using the Predecessor and Successor links on the Lin
 A predecessor is the producer of the work item, or the item that must come first.
 A successor is the consumer of the work item, or the item that is dependent on the first item.
 
-![dependency tracker](../images/Links-View.png)
+![Screenshot of Dependency Tracker, links view.](../images/Links-View.png)
