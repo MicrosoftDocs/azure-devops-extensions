@@ -4,17 +4,18 @@ description: Learn how to create dependency in Azure DevOps Dependency Tracker
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual
-ms.date: 07/15/2019
+ms.date: 02/20/2024
 ---
 
 # Creating a Dependency
 
 When one team is dependent on another team for work a dependency needs to be created.  Both teams should track their own work in their own area path and they should create a dependency link between the two work items.
 
-To find Dependency tracker, go to [Create new dependency](./extensions/dependency-tracker/create-new-dependency).
+To find Dependency Tracker, sign in to your organization (```https://dev.azure.com/{Your_Organization}```), and then select **Boards** > **Dependency Tracker**.
+
 ![Screenshot of Dependency Tracker, easy button.](../images/Easy-Button.png)
 
-From there the Dependency Creation screen pops up.
+The Dependency Creation screen pops up.
 
 The Producer is the team that commits to delivering the work.
 The Consumer is the team that needs or is dependency on the work.
