@@ -11,7 +11,7 @@ ms.date: 07/15/2019
 
 When one team is dependent on another team for work a dependency needs to be created.  Both teams should track their own work in their own area path and they should create a dependency link between the two work items.
 
-To find Dependency tracker go to :
+To find Dependency tracker go to : https://docs.microsoft.com/azure/devops/extensions/dependency-tracker/create-new-dependency.
 ![dependency tracker](../images/Easy-Button.png)
 
 From there the Dependency Creation screen pops up.
