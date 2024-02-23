@@ -46,4 +46,4 @@ Do the following steps to create a dependency.
 - [Overview of Dependency Tracker](overview.md)
 - [Dependency views](dependency-views.md)
 - [Dependency Timeline](timeline.md)
-- [Dependency Risk Graph](risk-graph)
+- [Dependency Risk Graph](risk-graph.md)
