@@ -1,32 +1,49 @@
 ---
-title: How to create a dependency
-description: Learn how to create dependency in Azure DevOps Dependency Tracker
+title: Create a dependency
+description: Learn how to create dependency in the Dependency Tracker extension for Azure DevOps.
 author: cherylsingh
 ms.author: chesing
 ms.topic: conceptual
-ms.date: 02/20/2024
+ms.date: 02/23/2024
 ---
 
-# Creating a Dependency
+# Create a dependency with Dependency Tracker
 
-When one team is dependent on another team for work a dependency needs to be created.  Both teams should track their own work in their own area path and they should create a dependency link between the two work items.
+Enable users to plan and manage dependencies across areas by providing a clear visual of all dependencies a team is consuming and producing in Azure DevOps. Use Dependency Tracker to create these dependencies.
 
-To find Dependency Tracker, sign in to your organization (```https://dev.azure.com/{Your_Organization}```), and then select **Boards** > **Dependency Tracker**.
+## Prerequisites
+- Download the [Dependency Tracker extension](https://marketplace.visualstudio.com/items?itemName=ms-eswm.dependencytracker) for Azure DevOps in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/).
+- Ensure each team tracks their work in their designated area path. This ensures that both teams maintain their own context and focus. For example, Team A and Team B might have separate area paths where they manage their tasks.
+- Identify work items that are interdependent between the teams. For example, Team A has a task (Task A) that depends on Team B’s work (Task B).
 
-![Screenshot of Dependency Tracker, easy button.](../images/Easy-Button.png)
+## Create a dependency
+Do the following steps to create a dependency.
 
-The Dependency Creation screen pops up.
+1. Sign in to your project (```https://dev.azure.com/{Your_Organization/Your_Project}```).
+2. Select **Boards** > **Dependency Tracker**.
+3. Select **+ New Dependency**.
+  - Enter the **Producer** and **Consumer** work item IDs in the search boxes, or **Create New** work items.
+    - The Producer is the team that commits to deliver the work. 
+    - The Consumer is the team that needs or is dependent on the work.
+      For example,
+      - From Team A (Producer/predecessor): Add a successor link to Task A. This signifies that Task A must finish before Task B can begin.
+      - From Team B (Consumer/dependent): Add a predecessor link to Task B. This indicates that Task B cannot start until Task A is completed.
 
-The Producer is the team that commits to delivering the work.
-The Consumer is the team that needs or is dependency on the work.
-The fastest way to create a dependency link is to type the Producer and Consumer work item ids in the search boxes and then click save.
+  > [!div class="mx-imgBorder"]  
+  > ![Screenshot of Dependency Tracker creation window.](../images/Easy-Button.png)
 
-If no work items exist for one half of the dependency it is possible to create a new work item also.
+4. Select **Save**.
 
-## Dependencies can also be created from the Links Tab
+   Your dependency saves.
 
-Dependencies can be created using the Predecessor and Successor links on the Links tab.
-A predecessor is the producer of the work item, or the item that must come first.
-A successor is the consumer of the work item, or the item that is dependent on the first item.
+   You can also create dependencies from the **Links** tab.
 
-![Screenshot of Dependency Tracker, links view.](../images/Links-View.png)
+   > [!div class="mx-imgBorder"]  
+   > ![Screenshot of Dependency Tracker, links view.](../images/Links-View.png)
+
+## Related articles
+
+- [Overview of Dependency Tracker](overview.md)
+- [Dependency views](dependency-views.md)
+- [Dependency Timeline](timeline.md)
+- [Dependency Risk Graph](risk-graph.md)
