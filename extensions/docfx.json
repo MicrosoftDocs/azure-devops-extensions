@@ -44,9 +44,8 @@
       "searchScope": ["Azure DevOps Services"],
       "author": "chcomley",
       "ms.author": "chcomley",
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/azure-devops-extensions",
-      "feedback_product_url": "mailto://adoreporting@microsoft.com"
+      "feedback_system": "Standard",
+      "feedback_product_url": "https://developercommunity.visualstudio.com/AzureDevOps"
     },
     "fileMetadata": {},
     "template": [],
